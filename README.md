@@ -87,3 +87,10 @@ Does not track your start time or save your preferences, so timer stops if your 
 
 ## Author
 👋 I'm a frontend web developer + Tech & Communications Specialist. #opentowork Older work: @Cotni and @incsuccess
+
+It is a time management technique transferred into a Web Application to unable users to manage break and work time symmerically and be as much productive as one can.
+![image](https://github.com/aakshivora/Pomodoro/assets/72702098/ad81ede2-a319-41fc-8182-f961fcbcd053)
+![image](https://github.com/aakshivora/Pomodoro/assets/72702098/7a39d197-560b-45e1-bea4-9bf7e2c239c7)
+![image](https://github.com/aakshivora/Pomodoro/assets/72702098/d524921d-ae54-4f7f-8238-cf4368d84ad0)
+
+
